@@ -1,4 +1,4 @@
-**WebSocket's Chatting Web Application**
+**WebSocket's Chatting Web Application** (Download and run  {npm install}}
 
 I have designed and developed a dynamic chatting application using Node.js and Express.js on the server-side, 
 coupled with HTML/CSS and JavaScript on the client-side.
